@@ -1,0 +1,2 @@
+rootProject.name='TangentApp'
+include ':app'
